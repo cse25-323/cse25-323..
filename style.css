@@ -290,28 +290,6 @@ footer {
 }
 
 
-body.dark-mode { background-color: #1a1a1a; color: #f0f0f0; }
-body.dark-mode nav { background-color: #222 !important; }
-body.dark-mode .banner,
-body.dark-mode .page-header,
-body.dark-mode .bg-gray,
-body.dark-mode .bg-off-white { background-color: #2a2a2a; border-color: #444; }
-body.dark-mode .simple-card,
-body.dark-mode .job-card,
-body.dark-mode .filters,
-body.dark-mode .ats-score,
-body.dark-mode .ai-suggestions,
-body.dark-mode .practice-mode,
-body.dark-mode .final-mode,
-body.dark-mode .card.problem,
-body.dark-mode .card.solution,
-body.dark-mode .stats-box > div,
-body.dark-mode .platforms-list article { background-color: #333; border-color: #555; color: #f0f0f0; }
-body.dark-mode .banner p,
-body.dark-mode .stat-label { color: #aaa; }
-body.dark-mode .btn-outline-custom { color: #f0f0f0; border-color: #666; }
-
-
 #theme-toggle {
   padding: 6px 14px;
   cursor: pointer;
